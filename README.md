@@ -1,1 +1,1 @@
-# my_projects
+# recipes_project
