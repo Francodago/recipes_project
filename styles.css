@@ -1,0 +1,79 @@
+
+*{
+box-sizing: border-box;
+}
+
+
+.Recipes-header{
+
+    border: 2px solid  black;
+    text-align: center;
+    margin-top: 40px;
+   margin-left: auto;
+   margin-right: auto;   
+   padding: 20px;
+   width: 500px;
+   height: 200px;
+   background-color: rgb(56, 255, 174);
+
+}
+
+.list{
+   text-align: center;
+   margin-top: 30px;
+}
+
+.myul{
+display: inline-block;
+text-align: left;
+}
+.myol{
+    display: inline-block;
+    text-align: left;
+    }
+    
+.lasagna-header{
+    text-align: center;
+    margin-top: 40px;
+   margin-left: auto;
+   margin-right: auto;  
+   margin-top: 20px;
+   margin-bottom: 20px;
+   padding: 10px; 
+   width: 400px;
+   height: 400px;
+}
+.pasta-header{
+width: 500px;
+height: 400px;
+text-align: center;
+margin-top: 40px;
+margin-left: auto;
+margin-right: auto;  
+margin-top: 20px;
+margin-bottom: 20px;
+padding: 10px; 
+}
+.pizza-header{
+    width: 500px;
+    height: 400px;
+    text-align: center;
+    margin-top: 40px;
+    margin-left: auto;
+    margin-right: auto;  
+    margin-top: 20px;
+    margin-bottom: 20px;
+    padding: 10px; 
+}
+.h3{
+text-align: center;
+  margin: auto;  
+  margin-top: 50px;
+   
+}
+
+.link{
+    text-align: center;
+    margin-top: 30px;
+    margin-bottom: 60px;
+}
